@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1733266350 source:c:\users\yassine\desktop\cpi2s1\c++\tp5\ex5\main.cpp
+	<iostream>
+	"Cercle.h"
+	"Point.h"
+
+1733266350 source:c:\users\yassine\desktop\cpi2s1\c++\tp5\ex5\src\cercle.cpp
+	"Cercle.h"
+	"Point.h"
+	<iostream>
+	<math.h>
+
+1733266350 c:\users\yassine\desktop\cpi2s1\c++\tp5\ex5\include\cercle.h
+	"Point.h"
+
+1733265602 c:\users\yassine\desktop\cpi2s1\c++\tp5\ex3\include\point.h
+
+1733266237 c:\users\yassine\desktop\cpi2s1\c++\tp5\ex5\include\point.h
+
+1733266306 source:c:\users\yassine\desktop\cpi2s1\c++\tp5\ex5\src\point.cpp
+	"Point.h"
+	<iostream>
+	"math.h"
+

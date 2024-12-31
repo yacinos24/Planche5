@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1734199030 source:c:\users\yassine\desktop\cpi2s1\c++\tp5\ex1\main.cpp
+	<iostream>
+	<string>
+	<Etudiant.h>
+
+1734199188 source:c:\users\yassine\desktop\cpi2s1\c++\tp5\ex1\src\etudiant.cpp
+	"Etudiant.h"
+	<string>
+	<iostream>
+
+1734199188 c:\users\yassine\desktop\cpi2s1\c++\tp5\ex1\include\etudiant.h
+	<string>
+
+1734199188 source:c:\users\yassine\desktop\cpi2s1\c++\fini\tp5\ex1\src\etudiant.cpp
+	"Etudiant.h"
+	<string>
+	<iostream>
+
+1734199188 c:\users\yassine\desktop\cpi2s1\c++\fini\tp5\ex1\include\etudiant.h
+	<string>
+

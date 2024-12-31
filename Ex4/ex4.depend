@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1733340817 source:c:\users\yassine\desktop\cpi2s1\c++\tp5\ex4\main.cpp
+	<iostream>
+	"Complexe.h"
+
+1733168316 source:c:\users\yassine\desktop\cpi2s1\c++\tp5\ex4\src\complexe.cpp
+	"Complexe.h"
+	<iostream>
+	<math.h>
+
+1733167180 c:\users\yassine\desktop\cpi2s1\c++\tp5\ex4\include\complexe.h
+

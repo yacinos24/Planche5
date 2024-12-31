@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1734139289 source:c:\users\yassine\desktop\cpi2s1\c++\tp5\ex2\main.cpp
+	<iostream>
+	"Vecteur3D.h"
+
+1734139274 source:c:\users\yassine\desktop\cpi2s1\c++\tp5\ex2\src\vecteur3d.cpp
+	"Vecteur3D.h"
+	<iostream>
+	<math.h>
+
+1734139274 c:\users\yassine\desktop\cpi2s1\c++\tp5\ex2\include\vecteur3d.h
+

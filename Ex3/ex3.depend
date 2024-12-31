@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1733094109 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_5\ex3\main.cpp
+	"Point.h"
+	<iostream>
+
+1733094209 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_5\ex3\src\point.cpp
+	"Point.h"
+	<iostream>
+	<cmath>
+
+1733094209 c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_5\ex3\include\point.h
+
+1733094236 source:c:\users\yassine\desktop\ex3\main.cpp
+	"Point.h"
+	<iostream>
+
+1733094209 c:\users\yassine\desktop\ex3\include\point.h
+
+1733094209 source:c:\users\yassine\desktop\ex3\src\point.cpp
+	"Point.h"
+	<iostream>
+	<cmath>
+
+1733169608 source:c:\users\yassine\desktop\ex3\src\cercle.cpp
+	"Cercle.h"
+	"Point.h"
+
+1733169608 c:\users\yassine\desktop\ex3\include\cercle.h
+	"Point.h"
+
+1734139520 source:c:\users\yassine\desktop\cpi2s1\c++\tp5\ex3\main.cpp
+	"Point.h"
+	<iostream>
+
+1734139571 c:\users\yassine\desktop\cpi2s1\c++\tp5\ex3\include\point.h
+
+1734139458 source:c:\users\yassine\desktop\cpi2s1\c++\tp5\ex3\src\point.cpp
+	"Point.h"
+	<iostream>
+	<cmath>
+
